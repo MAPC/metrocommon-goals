@@ -1,3 +1,7 @@
+---
+description: Goal A
+---
+
 # A Climate-Resilient Region
 
 ## Metro Boston is prepared for – and resilient to – the impacts of climate change.
