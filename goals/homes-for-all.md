@@ -6,7 +6,6 @@ description: 'Goal C:'
 
 ## All residents of Metro Boston have places to live that meet their needs, and which they can afford.
 
-  
 In the year 2050, people who live in the region, and those who move here, can find homes that suit their needs and incomes. Residents don’t fear being priced out of their neighborhoods. Families of every size can choose from a range of housing types. As their needs change, residents can find reasonably priced options where they hope to live. No one is steered toward or away from any community because of their race, ethnicity, faith or other characteristics. New homes are integrated into neighborhoods close to jobs, shopping, schools, recreation, and transportation. Owners of older homes preserve them, while upgrading accessibility and energy performance. Homes are designed to meet the needs of our residents, including families with children, older adults, and people with disabilities.
 
 1. Everyone has a home; homelessness is essentially non-existent.

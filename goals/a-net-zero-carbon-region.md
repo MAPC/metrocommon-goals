@@ -6,7 +6,6 @@ description: 'Goal D:'
 
 ## The Metro Boston region is highly energy efficient and has reduced its greenhouse gas \(GHG\) emissions to net zero.
 
-  
 In 2050, Metro Boston is deeply energy efficient. We power our communities, buildings, and vehicles with renewable energy. The region benefits from having made deep cuts in greenhouse gas emissions before 2030, as part of the global effort to avoid the worst impacts of the climate crisis. Making zero-emissions choices for food, clothing, and other goods is easy, affordable, and convenient for everyone. The public health, resiliency, and other benefits of a net-zero carbon future are distributed equitably, lifting up all communities, particularly those historically bearing greater burdens.
 
 1. Energy demand is significantly reduced and energy efficiency is maximized across the region.
