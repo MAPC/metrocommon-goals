@@ -1,17 +1,19 @@
 ---
-description: Goal H
+description: >-
+  Goal H: Greater Boston is full of unique places and experiences that bring joy
+  and foster diversity and social cohesion.
 ---
 
 # Thriving Arts, Culture, and Heritage
 
 ## Greater Boston is full of unique places and experiences that bring joy and foster diversity and social cohesion.
 
-In 2050, residents and visitors of all backgrounds enjoy a wide variety of historical, cultural, and artistic experiences. Public art and cultural institutions reflect our region’s diversity. The arts are recognized for their intrinsic value. Public and private financial support make art more accessible to a broader audience. Residents of all ages have opportunities for art education and for creative expression. High-quality public programming and urban design adds vitality, cultural experiences, and walkability to our neighborhoods. New development complements and enhances existing town centers. Historic buildings and cultural landscapes are protected, enriching our civic life.
+In 2050, residents and visitors of all backgrounds enjoy a wide variety of historical, cultural, recreational, and artistic experiences. Public art, cultural institutions, and social activities reflect our region’s diversity. Residents of all ages, abilities, and incomes have opportunities for creative expression and art education. Public and private funding makes art more accessible to a broader audience. Public programming and urban design encourages opportunities for social and cultural experiences and walkability, building social connections and cohesion. New development complements and enhances existing city and town centers. Historic buildings and cultural landscapes that are important for understanding our region’s people and cultures are protected or adapted to contemporary needs.
 
-1. People of all ages participate in arts and cultural activities, building community and social networks.
-2. Historic buildings, properties, and landscapes are adapted to meet contemporary needs.
-3. New development is integrated into historic neighborhood fabric in complementary ways.
-4. Policies, institutions, and the market sustain and support the arts, allowing artists to make a living.
-5. Affordable spaces exist for artists to live and work in communities throughout Metro Boston.
-6. Historic preservation activities document and preserve resources that include the full range of cultural heritage in our region.
+1. > People of all ages and backgrounds are able to participate in arts, cultural, and social activities, building community and social cohesion.
+2. > Public art and programming contribute to our understanding of our region’s people, places, and history.
+3. > Affordable spaces exist for artists to live and work in communities throughout the region, including live/work, maker spaces, light – industrial fabrication facilities, and innovation incubators.
+4. > Historic buildings, properties, and landscapes are adapted to meet contemporary challenges, including climate, housing, accessibility, and recreational needs.
+5. > Historic preservation efforts document and preserve the full range of cultural heritage in our region.
+6. > Urban design, public art, and new development contribute to a human-centered, safe, and delightful public realm.
 

@@ -1,8 +1,8 @@
 ---
-description: 'DRAFT Goals as of April 30, 2019'
+description: 'June 5, 2019'
 ---
 
-# MetroCommon Draft Goals
+# MetroCommon Provisional Goals
 
 ![](https://mapc.az1.qualtrics.com/CP/Graphic.php?IM=IM_0fxpWWsvYtTSKih)
 

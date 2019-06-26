@@ -1,18 +1,20 @@
 ---
-description: Goal F
+description: >-
+  Goal G: Everyone has the financial resources to meet their needs and to live
+  fulfilling lives.
 ---
 
-# Economic Security and Prosperity
+# Economic Security
 
 ## Everyone has the financial resources to meet their needs and to live fulfilling lives.
 
-In 2050, residents of Metro Boston can provide for themselves and their families throughout their lives. Workers earn wages that support healthy lifestyles, access to opportunities, and allow for retirement, school, and emergency savings. Those in need receive services and supports from both public and private sources. Populations that have historically lacked or been denied wealth are now as likely as others to build wealth and pass it on. Employers provide job stability with “family first” policies. Young children have safe, affordable, and nurturing environments in their early years. Children thrive in high quality schools, which prepare them for work and life. Adults who want to increase their skills can find convenient and affordable training programs. The region is a destination for students, entrepreneurs, investors, artists, and innovators, while at the same time expanding opportunities for current residents. New jobs are located near transit, other infrastructure, and existing services. The region has a thriving and varied business ecosystem from locally-owned stores to global companies.
+In 2050, residents of Metro Boston can provide for themselves and their families throughout their lives. Workers earn wages that support healthy lifestyles, access to opportunities, and allow for education, emergency savings, and retirement. Those in need receive services and supports from both public and private sources. Populations that have historically lacked or been denied wealth are now as likely as others to build wealth and pass it on. Employers provide job stability with “family first” policies. Young children have safe, affordable, and nurturing environments in their early years. Students thrive in high quality schools that prepare them for fulfilling work and life. Adults who want to expand their skills can find convenient and affordable higher education and training programs.
 
-1. Residents have enough wealth – or access to support – to allow them to withstand economic disruptions, provide for post-secondary school, and retire.
-2. Policies, programs, and infrastructure allow for businesses of all sizes to thrive and provide fulfilling employment opportunities. Those business have the opportunity to expand and grow in smart growth locations.
-3. Employers, the educational system, and government agencies collaboratively manage a successful workforce development pipeline that results in fulfilling employment.
-4. Vacant and underutilized commercial and industrial sites are revitalized, and they provide new jobs close to population centers and transit.
-5. Employers in the region – combined with appropriate public support – provide their employees with good wages, affordable health care, reasonable vacation, sick and parental leave time, healthy working conditions, and stable retirement options.
-6. Populations that have historically faced unemployment or underemployment, in particular residents of color, low-income residents, those formerly incarcerated, seniors, and people with disabilities, find gainful employment making good wages.
-7. Small businesses owners and immigrant entrepreneurs are a thriving part of the regional economy.
+1. > Residents have enough wealth – or access to public or personal safety nets – to allow them to withstand economic disruptions, provide for post-secondary schooling, and retirement.
+2. > The educational system is desegregated. Educational funding and resources are equitably distributed across the region.
+3. > Employers, community-based organizations, the K-12 and higher educational systems, and government agencies collaboratively manage a successful workforce development pipeline that results in fulfilling employment.
+4. > Employers in the region – combined with appropriate public support and in partnership with labor unions – provide their employees with living wages, affordable health care, reasonable vacation, sick and parental leave time, healthy working conditions, and stable retirement options.
+5. > Populations that have historically faced unemployment or underemployment – in particular residents of color, low-income residents, women, those formerly incarcerated, older workers, and people with disabilities, find gainful employment earning living wages. There is equal pay for equal work.
+6. > Government programs no longer have strict cut-offs \(cliffs\), allowing recipients to increase their incomes and economic mobility without losing all assistance.
+7. > New economic models, such as cooperatively-owned businesses and Employee Stock Ownership Programs, provide wealth creation and business ownership opportunities, particularly for individuals with barriers to traditional employment and individuals interested in investing in the local economy.
 
