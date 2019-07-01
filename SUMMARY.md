@@ -15,3 +15,7 @@
 * [Healthy and Safe Neighborhoods](goals/healthy-and-safe-neighborhoods.md)
 * [Thriving Arts, Culture, and Heritage](goals/thriving-arts-culture-and-heritage.md)
 
+## Feedback
+
+* [Feedback on Goals](feedback/feedback-on-goals.md)
+
