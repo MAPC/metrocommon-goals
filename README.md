@@ -15,7 +15,9 @@ Now we want to hear how you feel about those draft goals. We'll read and record 
 
 ### [Take the Feedback Survey](https://mapc.az1.qualtrics.com/jfe/form/SV_b2t2u5mm1CkeFV3)
 
-### Download PDF version
+{% file src=".gitbook/assets/goals-draft-6\_5\_19-for-eac.docx" caption="Word Version" %}
+
+### 
 
 
 
