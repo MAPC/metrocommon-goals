@@ -1,10 +1,10 @@
 # Table of contents
 
-* [MetroCommon Provisional Goals](README.md)
+* [About MetroCommon Provisional Goals](README.md)
 
 ## Goals
 
-* [Goals](goals/goals-1/README.md)
+* [Provisional Goals](goals/goals-1/README.md)
   * [Getting Around the Region](goals/goals-1/getting-around-the-region.md)
   * [Homes for All](goals/goals-1/homes-for-all.md)
   * [A Climate-Resilient Region](goals/goals-1/a-climate-resilient-region.md)
