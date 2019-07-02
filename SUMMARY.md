@@ -1,8 +1,8 @@
 # Table of contents
 
-* [About MetroCommon Provisional Goals](README.md)
+* [About MetroCommon Goals](README.md)
 
-## Goals
+## Explore the Goals <a id="goals"></a>
 
 * [Provisional Goals](goals/goals-1/README.md)
   * [Getting Around the Region](goals/goals-1/getting-around-the-region.md)
