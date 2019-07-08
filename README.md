@@ -13,7 +13,9 @@ But what does making the region a better place actually mean? The MetroCommon go
 
 Now that we know where we want to go as a region, we can focus on how to get there. We are now researching, identifying, and discussing best practices and policies that will help us achieve our vision. Then we will test those ideas against big trends and shifts – like climate change and technology advances – that could change everything. From there, we’ll be able to make actionable recommendations. Along the way, we’ll be turning to the public for your ideas, priorities, and, above all, action. Let’s shape the region together!
 
-## [Give Your Feedback on the Goals](https://mapc.az1.qualtrics.com/jfe/form/SV_b2t2u5mm1CkeFV3)
+##                                [Give Your Feedback on the Goals](https://mapc.az1.qualtrics.com/jfe/form/SV_b2t2u5mm1CkeFV3)
+
+## 
 
 {% file src=".gitbook/assets/july-2019\_goals-pdf.pdf" caption="Download PDF of Provisional Goals" %}
 
