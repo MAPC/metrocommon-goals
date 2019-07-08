@@ -15,6 +15,8 @@ Now that we know where we want to go as a region, we can focus on how to get the
 
 ## [Give Your Feedback on the Goals](https://mapc.az1.qualtrics.com/jfe/form/SV_b2t2u5mm1CkeFV3)
 
+{% file src=".gitbook/assets/july-2019\_goals-pdf.pdf" caption="Download PDF of Provisional Goals" %}
+
 ## Goals FAQ:
 
 {% tabs %}
@@ -40,6 +42,4 @@ The third draft was again presented to the External Advisory Committee and they 
 The goals are provisional. Meaning that they can still change, which is important because we will continue to gather people’s aspirations for what they hope the region will become. The survey referenced above is live \([take it here](https://mapc.az1.qualtrics.com/jfe/form/SV_b2t2u5mm1CkeFV3)\) and has the newest draft of the goals for residents to comment on. After every phase, MAPC will gather feedback on the goals, group the feedback into themes, and determine when changes to the goals are called for.
 {% endtab %}
 {% endtabs %}
-
-{% file src=".gitbook/assets/goals-draft-6\_5\_19-for-eac.docx" caption="Download PDF of Provisional Goals" %}
 
