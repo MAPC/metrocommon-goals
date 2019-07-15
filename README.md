@@ -4,17 +4,12 @@ description: 'June 5, 2019'
 
 # About MetroCommon Goals
 
-##                             [Give Your Feedback on the Goals](https://mapc.az1.qualtrics.com/jfe/form/SV_b2t2u5mm1CkeFV3)
+![](https://mapc.az1.qualtrics.com/CP/Graphic.php?IM=IM_0fxpWWsvYtTSKih)
 
-## 
+##                             [Give Your Feedback on the Goals](https://mapc.az1.qualtrics.com/jfe/form/SV_b2t2u5mm1CkeFV3)
 
 {% file src=".gitbook/assets/july-2019\_goals-pdf.pdf" caption="Download PDF of Provisional Goals" %}
 
-## 
-
-![](https://mapc.az1.qualtrics.com/CP/Graphic.php?IM=IM_0fxpWWsvYtTSKih)
-
-  
 MetroCommon 2050 is Greater Boston’s next long-range plan. By the end of the plan, MetroCommon will be an action plan for local and state governments, residents and businesses. It will recommend specific strategies for making the region a better place.
 
 But what does making the region a better place actually mean? The MetroCommon goals answer that. They are built from the hopes and dreams of thousands of Metro Boston residents imagining the future they want. The voices have been diverse: different ages, walks of life, races, and perspectives. They are bold, but achievable.
