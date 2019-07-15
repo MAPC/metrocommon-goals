@@ -4,6 +4,14 @@ description: 'June 5, 2019'
 
 # About MetroCommon Goals
 
+##                             [Give Your Feedback on the Goals](https://mapc.az1.qualtrics.com/jfe/form/SV_b2t2u5mm1CkeFV3)
+
+## 
+
+{% file src=".gitbook/assets/july-2019\_goals-pdf.pdf" caption="Download PDF of Provisional Goals" %}
+
+## 
+
 ![](https://mapc.az1.qualtrics.com/CP/Graphic.php?IM=IM_0fxpWWsvYtTSKih)
 
   
@@ -11,15 +19,7 @@ MetroCommon 2050 is Greater Boston’s next long-range plan. By the end of the p
 
 But what does making the region a better place actually mean? The MetroCommon goals answer that. They are built from the hopes and dreams of thousands of Metro Boston residents imagining the future they want. The voices have been diverse: different ages, walks of life, races, and perspectives. They are bold, but achievable.
 
-Now that we know where we want to go as a region, we can focus on how to get there. We are now researching, identifying, and discussing best practices and policies that will help us achieve our vision. Then we will test those ideas against big trends and shifts – like climate change and technology advances – that could change everything. From there, we’ll be able to make actionable recommendations. Along the way, we’ll be turning to the public for your ideas, priorities, and, above all, action. Let’s shape the region together!
-
-##                                [Give Your Feedback on the Goals](https://mapc.az1.qualtrics.com/jfe/form/SV_b2t2u5mm1CkeFV3)
-
-## 
-
-{% file src=".gitbook/assets/july-2019\_goals-pdf.pdf" caption="Download PDF of Provisional Goals" %}
-
-## Goals FAQ:
+Now that we know where we want to go as a region, we can focus on how to get there. We are now researching, identifying, and discussing best practices and policies that will help us achieve our vision. Then we will test those ideas against big trends and shifts – like climate change and technology advances – that could change everything. From there, we’ll be able to make actionable recommendations. Along the way, we’ll be turning to the public for your ideas, priorities, and, above all, action. Let’s shape the region together!Goals FAQ:
 
 {% tabs %}
 {% tab title="What Purpose do the Goals Serve?" %}
