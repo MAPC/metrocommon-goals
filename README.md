@@ -6,7 +6,7 @@ description: 'June 5, 2019'
 
 ![](https://mapc.az1.qualtrics.com/CP/Graphic.php?IM=IM_0fxpWWsvYtTSKih)
 
-##                             Give Your Feedback on the Goals
+##                             [Give Your Feedback on the Goals](https://mapc.az1.qualtrics.com/jfe/form/SV_0r1gZws9iTmO3IN)
 
 {% file src=".gitbook/assets/july-2019\_goals-pdf.pdf" caption="Download PDF of Provisional Goals" %}
 
