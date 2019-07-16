@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About MetroCommon Goals](README.md)
+* [MetroCommon 2050 Goals](README.md)
 
 ## Explore the Goals <a id="goals"></a>
 
