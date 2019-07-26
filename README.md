@@ -6,7 +6,7 @@ description: >-
 
 # MetroCommon 2050 Goals
 
-##                             [Give Your Feedback on the Goals](https://mapc.az1.qualtrics.com/jfe/form/SV_0r1gZws9iTmO3IN)
+##                             [Give Your Feedback on the Goals](https://mapc.az1.qualtrics.com/jfe/form/SV_3PnMvh7RtpdoI1T)
 
 {% file src=".gitbook/assets/july-2019\_goals-pdf \(2\).pdf" caption="Download PDF of Provisional Goals" %}
 
@@ -36,7 +36,7 @@ The third draft was again presented to the External Advisory Committee and they 
 {% tab title="What’s next with the goals?" %}
 ### What’s next with the goals?
 
-The goals are provisional. Meaning that they can still change, which is important because we will continue to gather people’s aspirations for what they hope the region will become. The survey referenced above is live \([take it here](https://mapc.az1.qualtrics.com/jfe/form/SV_0r1gZws9iTmO3IN)\) and has the newest draft of the goals for residents to comment on. After every phase, MAPC will gather feedback on the goals, group the feedback into themes, and determine when changes to the goals are called for.
+The goals are provisional. Meaning that they can still change, which is important because we will continue to gather people’s aspirations for what they hope the region will become. The survey referenced above is live \(take it here\) and has the newest draft of the goals for residents to comment on. After every phase, MAPC will gather feedback on the goals, group the feedback into themes, and determine when changes to the goals are called for.
 {% endtab %}
 {% endtabs %}
 
