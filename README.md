@@ -6,7 +6,7 @@ description: >-
 
 # MetroCommon 2050 Goals
 
-##                             [Give Your Feedback on the Goals](https://mapc.az1.qualtrics.com/jfe/form/SV_3PnMvh7RtpdoI1T)
+##                             [Give Your Feedback on the Goals: Click Here](https://mapc.az1.qualtrics.com/jfe/form/SV_3PnMvh7RtpdoI1T)
 
 {% file src=".gitbook/assets/july-2019\_goals-pdf \(2\).pdf" caption="Download Provisional Goals - English" %}
 
